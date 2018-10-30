@@ -1,0 +1,6 @@
+beautifulsoup4==4.5.1
+bs4==0.0.1
+html5lib==0.999999999
+mechanize==0.2.5
+requests==2.11.1
+Unidecode==0.4.20
